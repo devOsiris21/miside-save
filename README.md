@@ -9,13 +9,20 @@
 ```
 C:\Users\[YourUsername]\AppData\LocalLow\AIHASTO\MiSideFull
 ```
-3. Before replacing your save file, make sure to back up your current progress by copying the existing save file to another location.
-4. Unzip Save.zip into folder with replacement.
-5. Launch the Game!
+3. Unzip Save.zip into folder with replacement.
+4. Launch the Game!
 
 ## ⚠️ Warning
 
 You will not receive all achievements on Steam simply by using this save. Achievements tied to specific in-game actions must still be completed manually if you wish to earn them on Steam.
+
+To remove the save you need:
+
+```
+1. Launch the Game.
+2. Go to Settings.
+3. Press Start With The Clean Slate. 
+```
 
 ## 🎯 Who Is This For?
 
