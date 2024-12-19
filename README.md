@@ -1,6 +1,6 @@
 # miside-save
 
-**This repository contains a complete save file for the game Miside, with all costumes, cartridges and chapters unlocked.**
+**This repository contains a complete save file for the game Miside, with all costumes, cartridges, Mita's and chapters unlocked.**
 
 ## Usage
 
