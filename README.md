@@ -15,7 +15,7 @@ C:\Users\[YourUsername]\AppData\LocalLow\AIHASTO\MiSideFull
 
 ## ⚠️ Warning
 
-Using this save file will unlock all achievements within the save file itself, but you will not receive all achievements on your gaming platform (e.g., Steam) simply by using this save. Achievements tied to specific in-game actions must still be completed manually if you wish to earn them on your platform.
+You will not receive all achievements on Steam simply by using this save. Achievements tied to specific in-game actions must still be completed manually if you wish to earn them on Steam.
 
 ## 🎯 Who Is This For?
 
