@@ -20,7 +20,9 @@ Using this save file will unlock all achievements within the save file itself, b
 ## 🎯 Who Is This For?
 
 This save file is ideal for:
+
 New speedrunners: Practice specific chapters without the need to unlock them.
+
 Casual players: That want to play with all cosmetics from the start.
 
 ## 📜 Disclaimer
