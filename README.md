@@ -28,7 +28,7 @@ To remove the save you need:
 
 This save file is ideal for:
 
-New speedrunners: Practice specific chapters without the need to unlock them.
+New speedrunners: Practice specific chapters without finishing game first.
 
 Casual players: That want to play with all cosmetics from the start.
 
