@@ -7,7 +7,7 @@
 1. Download the Save.zip file.
 2. Navigate to the directory where your Miside save files are stored. This can be found in:
 ```
-C:\Users\[YourUsername]\AppData\LocalLow\AIHASTO\MiSideFull
+%appdata%\..\LocalLow\AIHASTO\MiSideFull
 ```
 3. Unzip Save.zip into folder with replacement.
 4. Launch the Game!
